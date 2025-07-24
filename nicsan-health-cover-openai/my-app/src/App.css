@@ -1,0 +1,36 @@
+
+.app-container {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+  padding: 2rem;
+}
+.app-header {
+  background-color: #004E98;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.logo {
+  height: 80px;
+}
+.form-card {
+  background: white;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.form-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.result-card {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #004E98;
+  color: white;
+  border-radius: 10px;
+}
